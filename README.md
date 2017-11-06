@@ -8,7 +8,7 @@
 <img src="images/13_sep_prog_day.png" />
 
 ## День народного единства
-<img src="images/13_nov.png" />
+<img src="images/4_nov.png" />
 
 ## День энергетика
 
