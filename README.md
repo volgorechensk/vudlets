@@ -14,6 +14,7 @@
 <img src="images/22_dec.png" />
 
 ## Новый год и Рождество
+<img src="images/new_year.png" />
 
 ## 14 февраля, День влюблённых
 
