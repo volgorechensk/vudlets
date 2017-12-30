@@ -1,6 +1,8 @@
 # vudlets
 Картинки на праздники для [volgorechensk.ru](http://volgorechensk.ru)
 
+Художник: Любовь Селезнёва
+
 ## 1 сентября, День знаний
 <img src="images/1_sep.png" />
 
